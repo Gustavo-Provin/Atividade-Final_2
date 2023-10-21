@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Space Mono', monospace;
+}
+
+:root{
+  --primary: #472f71;
+  --secondary: #00FF04;
+  --tertiary: #624595;
+}
+
+.navbar {
+  max-width: 300px;
+  min-width: 272px;
+  width: 100%;
+  height: 100vh;
+  float: left;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-align: center;
+  background-color: var(--primary);
+}
+
+.nav-cont {
+  position: relative;
+  top: 25%;
+}
+
+.nav-cont nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+.nav-cont nav ul li {
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.nav-cont nav ul li a {
+  font-size: 22px;
+  text-decoration: none;
+  font-weight: 650;
+  cursor:grabbing;
+  color: white;
+}
+
+.nav-cont nav ul li a:hover {
+  text-shadow: 0 0 5px hsl(124, 58%, 41%), 0 0 5px hsl(124, 58%, 41%), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 60px var(--secondary);;
+}
+
+#image-profile {
+ display: inline-block;
+  margin-bottom: 43px;
+  width: 350px;
+}
+
+#image-profile img {
+  width: 350px;
+  border-radius: 50%;
+  border: var(--primary) 10px solid;
+}
+
+.sobre-cont {
+  height: 100vh;
+  padding: 0 80px;
+  margin-left: 350px;
+}
+
+.sobre-cont h1 {
+  font-size: 98px;
+  margin-left: 10px;
+}
+
+.sobre-cont > div {
+  position: relative;
+  top: 30%;
+}
+
+.sobre-cont h1 span {
+  color: var(--primary);
+}
+
+.info-cont > address {
+  margin-bottom: 16px;
+  font-size: 30px;
+}
+
+.contact-cont > div > strong {
+  font-size: 22px;
+}
+
+.contact-cont > div > a {
+  text-decoration: none;
+  font-size: 21px;
+  color: var(--primary);
+}
+
+.contact-cont > div > a:hover {
+  text-shadow: 0 0 5px hsl(124, 58%, 41%), 0 0 5px hsl(124, 58%, 41%), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 60px var(--secondary);;
+  cursor: grabbing;
+}
+
+.mensage {
+  font-size: 22px;
+}
+
+.social-media ul {
+  list-style: none;
+}
+
+.social-media > ul > li {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  margin-left: 25px;
+}
+
+.social-media > ul > li > a img {
+  transition: 0.3s;
+  border-radius: 50%;
+  text-decoration: none;
+  border: 2px solid;
+  cursor: grabbing;
+}
+
+.social-media > ul > li > a:hover img {
+  transition: 0;
+  border-radius: 25%;
+  text-decoration: none;
+  border: 2px solid;
+  cursor: grabbing;
+  box-shadow: 0 0 5px hsl(124, 58%, 41%), 0 0 5px hsl(124, 58%, 41%), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 60px var(--secondary);;
+}
+
+.conhecimentos-cont {
+  padding: 0 8px;
+  margin-left: 30px;
+}
+
+.hardskills-cont {
+  list-style-type: none;
+  max-width: 400px;
+  position: absolute;
+  margin: 400px;
+}
+
+.hardskills-cont li {
+  max-width: 150px;
+  background-color: var(--secondary);
+  box-shadow: 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 60px var(--tertiary);;
+  padding: 20px;
+  border-radius: 40px;
+  float: left;
+  margin: 10px;
+}
+
+.hardskills-cont li h3 {
+  float: left;
+  font-size: 30px;
+}
+
+.hardskills-cont li img {
+  width: 70px;
+  height: 70px;
+}
+
+.objetivos-cont {
+  font-size: 20px;
+  padding: 110px;
+  float: left;
+  margin-top: 250px;
+  margin-left: 20px;
+}
+
+.objetivos-cont ul {
+  padding: 30px;
+}
+
+.span {
+  color: var(--secondary);
+  text-shadow: 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 60px var(--tertiary);;
+}
