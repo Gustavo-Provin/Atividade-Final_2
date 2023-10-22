@@ -9,9 +9,9 @@
 }
 
 :root{
-  --primary: #472f71;
-  --secondary: #00FF04;
-  --tertiary: #624595;
+  --primary: #501D73;
+  --secondary: #9FF279;
+  --tertiary: #61208C;
 }
 
 .navbar {
@@ -143,6 +143,7 @@
 }
 
 .hardskills-cont {
+  color: white;
   list-style-type: none;
   max-width: 400px;
   position: absolute;
@@ -151,8 +152,8 @@
 
 .hardskills-cont li {
   max-width: 150px;
-  background-color: var(--secondary);
-  box-shadow: 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 60px var(--tertiary);;
+  background-color: var(--tertiary);
+  box-shadow: 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 60px var(--secondary);;
   padding: 20px;
   border-radius: 40px;
   float: left;
@@ -182,6 +183,5 @@
 }
 
 .span {
-  color: var(--secondary);
-  text-shadow: 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 5px var(--tertiary), 0 0 60px var(--tertiary);;
+  text-shadow: 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 5px var(--secondary), 0 0 60px var(--secondary);;
 }
