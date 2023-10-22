@@ -8,9 +8,10 @@
 
 ---
 
-![image](https://github.com/Gustavo-Provin/Atividade-Final_FrontEnd-1/assets/141770162/9d87f6d2-2b73-460b-8f10-a23a88a9807b)
+![image](https://github.com/Gustavo-Provin/Atividade-Final_FrontEnd-1/assets/141770162/00f74d81-696c-48e9-929c-97b883439a91)
 
 
 ---
 
-![image](https://github.com/Gustavo-Provin/Atividade-Final_FrontEnd-1/assets/141770162/408013a7-fd35-4a97-8a6d-9e13308d4c6f)
+![image](https://github.com/Gustavo-Provin/Atividade-Final_FrontEnd-1/assets/141770162/5f1e4301-4180-4505-b260-e29ac831105f)
+
