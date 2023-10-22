@@ -86,8 +86,12 @@
 }
 
 .info-cont > address {
-  margin-bottom: 16px;
+  margin-bottom: 40px;
   font-size: 30px;
+}
+
+.contact-cont {
+  margin-bottom: 40px;
 }
 
 .contact-cont > div > strong {
@@ -106,6 +110,7 @@
 }
 
 .mensage {
+  margin-bottom: 5px;
   font-size: 22px;
 }
 
