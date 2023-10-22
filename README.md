@@ -5,7 +5,8 @@ https://gustavo-provin.github.io/Atividade-Final_FrontEnd-1/index.html
 
 ### Páginas do projeto:
 
-![image](https://github.com/Gustavo-Provin/Atividade-Final_FrontEnd-1/assets/141770162/1d9fa91c-ec60-44d6-bd5a-f4a417c6797c)
+
+![image](https://github.com/Gustavo-Provin/Atividade-Final_FrontEnd-1/assets/141770162/db889d06-e6b9-4396-8d9a-bc01fe0b9806)
 
 
 ---
